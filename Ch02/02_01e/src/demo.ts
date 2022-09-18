@@ -7,6 +7,5 @@ let a: Date;
 let b: string[];
 let c: any;
 
-let c = "Test" as any;
 
 
